@@ -1,0 +1,4 @@
+interface:
+  display_name: "数字教材资源脚本审核"
+  short_description: "审核数字教材脚本中的知识、逻辑、表述和术语问题，并提取待核实事实"
+  default_prompt: "使用 $reviewing-digital-textbook-scripts 审核这份数字教材资源脚本，并输出结构化问题清单。"
